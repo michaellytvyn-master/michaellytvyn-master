@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Michael Lytvyn!
 
 ## 💫 About Me:
-👨‍💻 I’m currently working on: Full-stack development projects<br>👨‍🎓 I’m looking to collaborate on: Exciting web application development initiatives<br>🤝 I’m looking for help with: Solving complex coding challenges and enhancing my skills<br>🌱 I’m currently learning: New technologies and frameworks to stay up-to-date<br>💬 Ask me about: Anything related to software development, programming languages, or web development<br>⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!
+⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!
 <br> 
 
 ## 🌐 Socials:
